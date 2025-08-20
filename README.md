@@ -1,6 +1,6 @@
  Video Recommendation API
 
-A simple **Spring Boot REST API** for managing and searching videos (movies, series, etc.), built as a technical exercise.  
+A simple **Spring Boot REST API** for managing and searching videos (movies, series, etc.)
 The project demonstrates validation, search, similarity detection, and soft deletion of videos.
 
 ---
@@ -18,15 +18,20 @@ The project demonstrates validation, search, similarity detection, and soft dele
 ---
  Project Structure
 
-src/
-└── main/
-├── java/com/example/videos/
-│ ├── controller/ # REST controllers
-│ ├── model/ # Entities (Video, VideoType)
-│ ├── repo/ # In-memory repository
-│ └── service/ # Business logic & validation
-└── resources/
-└── videos.json # Initial dataset
+video-reco-api/
+└─ src/
+├─ main/
+│ ├─ java/com/example/videos/
+│ │ ├─ controller/ # REST controllers
+│ │ ├─ model/ # Entities (Video, VideoType)
+│ │ ├─ repo/ # In-memory repository
+│ │ └─ service/ # Business logic & validation
+│ └─ resources/
+│ ├─ application.properties
+│ └─ videos.json # Initial dataset
+└─ test/
+└─ java/com/example/videos/
+└─ VideoControllerTest.java
 
 Tech Stack
 - **Java 17**
