@@ -1,0 +1,9 @@
+com\mediagenix\videos\model\VideoType.class
+com\mediagenix\videos\controller\GlobalHandler.class
+com\mediagenix\videos\service\VideoService$1.class
+com\mediagenix\videos\controller\VideoController.class
+com\mediagenix\videos\repo\InMemoryRepo.class
+com\mediagenix\videos\service\VideoService.class
+com\mediagenix\videos\VideoRecoApp.class
+com\mediagenix\videos\controller\GlobalHandler$ApiError.class
+com\mediagenix\videos\model\Video.class

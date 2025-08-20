@@ -1,0 +1,45 @@
+[
+  {
+    "id": "97e343ac-3141-45d1-aff6-68a7465d55ec",
+    "title": "Matrix",
+    "labels": ["sci-fi", "dystopia", "simulation"]
+  },
+  {
+    "id": "86be99d4-ba36-11eb-8529-0242ac130003",
+    "title": "Indiana Jones : Raiders of the Lost Ark",
+    "director": "Steven Spielberg",
+    "releaseDate": "1982-03-18T12:00:00Z",
+    "labels": ["adventure", "whip", "archeology"]
+  },
+  {
+    "id": "4544e617-84ab-4934-9bda-4d14c7ebcc19",
+    "title": "Breaking Bad",
+    "numberOfEpisodes": 62,
+    "labels": ["chemistry", "drug", "desert", "cancer", "crime"]
+  },
+  {
+    "id": "23a5b3e8-8d6b-442c-9c5b-16b0a0caaa11",
+    "title": "Les Indestructibles",
+    "labels": ["animation", "family", "superhero"]
+  },
+  {
+    "id": "a0dbf5a5-7c0a-4b0c-bb2e-3c9b2b8d1111",
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "releaseDate": "2014-11-07T00:00:00Z",
+    "labels": ["sci-fi", "space", "time-dilation"]
+  },
+  {
+    "id": "5c75f2ac-4e83-4d6a-8a55-9bb8df123456",
+    "title": "Dark",
+    "numberOfEpisodes": 26,
+    "labels": ["time-travel", "mystery", "germany"]
+  },
+  {
+    "id": "60718293-a4b5-4c66-d777-889900112233",
+    "title": "Indiana Jones and the Last Crusade",
+    "director": "Steven Spielberg",
+    "releaseDate": "1989-05-24T00:00:00Z",
+    "labels": ["adventure", "archeology", "father-son"]
+  }
+]

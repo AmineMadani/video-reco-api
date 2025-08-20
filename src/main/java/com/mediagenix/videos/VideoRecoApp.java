@@ -1,0 +1,11 @@
+package com.mediagenix.videos;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class VideoRecoApp {
+    public static void main(String[] args) {
+        SpringApplication.run(VideoRecoApp.class, args);
+    }
+}
