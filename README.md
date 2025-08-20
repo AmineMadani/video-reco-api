@@ -34,7 +34,7 @@ video-reco-api/
 └─ VideoControllerTest.java
 
 Tech Stack
-- **Java 17**
+- **Java 17+**
 - **Spring Boot 3**
 - **Maven**
 - **Jackson** (JSON serialization/deserialization)
@@ -53,7 +53,7 @@ How to Run
 
 The API will be available to test at:
 
-http://localhost:8080/api/v1/videos
+http://localhost:8080/swagger-ui/index.html
 
 5. Tests
 
